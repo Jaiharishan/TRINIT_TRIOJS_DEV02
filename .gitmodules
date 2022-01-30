@@ -1,0 +1,6 @@
+[submodule "TRINIT_TRIOJS_DEV02_FRONTEND"]
+	path = TRINIT_TRIOJS_DEV02_FRONTEND
+	url = https://github.com/Jaiharishan/TRINIT_TRIOJS_DEV02_FRONTEND
+[submodule "TRINIT_TRIOJS_DEV02_BACKEND"]
+	path = TRINIT_TRIOJS_DEV02_BACKEND
+	url = https://github.com/Jaiharishan/TRINIT_TRIOJS_DEV02_BACKEND

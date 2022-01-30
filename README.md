@@ -80,3 +80,15 @@
 
 
 ### Project Video
+
+&nbsp; 
+
+- This is the walkthrough to the website.
+
+&nbsp; 
+
+
+https://user-images.githubusercontent.com/78893503/151692184-4c00ded0-3167-46f6-9fc7-2a28ff75bbeb.mp4
+
+
+
